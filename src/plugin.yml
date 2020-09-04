@@ -1,0 +1,7 @@
+main: org.Skyblueplayer.Main
+name: RoleplayPlugin
+version: 1.0
+description: This plugin is can use in every server.
+api-version: 1.13
+author: Skyblueplayer
+website: https://www.youtube.com/channel/UCOAjuryYrK7K0kGrq2SMiGg?view_as=subscriber
